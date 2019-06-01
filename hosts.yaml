@@ -1,0 +1,27 @@
+---
+code-211:
+    hostname: 192.168.2.211
+    groups:
+        - wanrouters
+    data:
+        site: City1
+        role: router
+        type: network_device
+
+code-215:
+    hostname: 192.168.2.215
+    groups:
+        - wanrouters
+    data:
+        site: City2
+        role: router
+        type: network_device
+
+code-219:
+    hostname: 192.168.2.219
+    groups:
+        - wanrouters
+    data:
+        site: City3
+        role: router
+        type: network_device

@@ -1,0 +1,13 @@
+---
+global:
+    data:
+        domain: localdomain
+
+wanrouters:
+    port: 22
+    platform: ios
+    username: user
+    password: password
+
+    data:
+        domain: localdomain
