@@ -6,8 +6,8 @@ global:
 wanrouters:
     port: 22
     platform: ios
-    username: napalmuser
-    password: matrix89
+    username: user
+    password: password
 
     data:
-        domain: bankofgreece.gr
+        domain: localdomain
