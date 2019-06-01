@@ -1,0 +1,13 @@
+---
+global:
+    data:
+        domain: bankofgreece.gr
+
+wanrouters:
+    port: 22
+    platform: ios
+    username: napalmuser
+    password: matrix89
+
+    data:
+        domain: bankofgreece.gr
