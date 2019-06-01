@@ -1,4 +1,4 @@
-# nornirchangewandes
+# nornir change wandes
 Use nornir to change the description for the wan interface on a group of routers. 
 The new descriptions are read from an excel file where there are data corresponding to the site code, the ip address and the circuit numbers (primary and backup combined, because the service is provided from a cpe provider router connected through the gi0/0/1 interface -wan).
 So the script demonstrates:
