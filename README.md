@@ -31,6 +31,6 @@ I have posted some content at my blog http://www.mythryll.com . It's a personal 
 
 I got a lot of help by Dmitry Figol for this one (of course I had to understand his input and adapt it to my needs, also figure out some missing links) and very usefull advice by Nick Russo. They are both on twitter and quite famous in the NetDevOps world so no need to provide links to them here. One of the pieces of advice I got is to use ipdb. I used the Nornir page for that to get started: https://nornir.readthedocs.io/en/stable/howto/ipdb_how_to_use_it_with_nornir.html . It's true it can change everything on how you figure out things work.
 
-Best of luck in you efforts, learning is the way forward (learn as much as you can and for as long as you can), and giving back of course! Ty all.
+Best of luck in you efforts, learning is the way forward (learn as much as you can and for as long as you can), and giving back of course! Ty all and also a big ty to Stuart Clark for encouraging me and pushing me forward!
 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/itheodoridis/nornirchangewandes)
