@@ -50,7 +50,7 @@ def main():
     wbsites.close()
 
     #Nornir is initialiazed and the inventory is formed
-    nr = InitNornir(config_file="config3.yaml")
+    nr = InitNornir(config_file="config.yaml")
 
     #ipdb.set_trace()
 
