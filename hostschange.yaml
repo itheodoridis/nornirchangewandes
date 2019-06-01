@@ -1,0 +1,144 @@
+---
+bog-111:
+    hostname: 192.168.1.111
+    groups:
+        - wanrouters
+    data:
+        site: Alexandroupoli
+        role: router
+        type: network_device
+
+bog-115:
+    hostname: 192.168.1.115
+    groups:
+        - wanrouters
+    data:
+        site: Volos
+        role: router
+        type: network_device
+
+bog-119:
+    hostname: 192.168.1.119
+    groups:
+        - wanrouters
+    data:
+        site: Iraklio
+        role: router
+        type: network_device
+
+bog-123:
+    hostname: 192.168.1.123
+    groups:
+        - wanrouters
+    data:
+        site: Ioannina
+        role: router
+        type: network_device
+
+bog-125:
+    hostname: 192.168.1.125
+    groups:
+        - wanrouters
+    data:
+        site: Kavala
+        role: router
+        type: network_device
+
+bog-126:
+    hostname: 192.168.1.126
+    groups:
+        - wanrouters
+    data:
+        site: Kalamata
+        role: router
+        type: network_device
+
+bog-128:
+    hostname: 192.168.1.128
+    groups:
+        - wanrouters
+    data:
+        site: Komotini
+        role: router
+        type: network_device
+
+bog-132:
+    hostname: 192.168.1.132
+    groups:
+        - wanrouters
+    data:
+        site: Lamia
+        role: router
+        type: network_device
+
+bog-133:
+    hostname: 192.168.1.133
+    groups:
+        - wanrouters
+    data:
+        site: Larissa
+        role: router
+        type: network_device
+
+bog-135:
+    hostname: 192.168.1.135
+    groups:
+        - wanrouters
+    data:
+        site: Mitilini
+        role: router
+        type: network_device
+
+bog-140:
+    hostname: 192.168.1.140
+    groups:
+        - wanrouters
+    data:
+        site: Patra
+        role: router
+        type: network_device
+
+bog-146:
+    hostname: 192.168.1.146
+    groups:
+        - wanrouters
+    data:
+        site: Rodos
+        role: router
+        type: network_device
+
+bog-148:
+    hostname: 192.168.1.148
+    groups:
+        - wanrouters
+    data:
+        site: Samos
+        role: router
+        type: network_device
+
+bog-149:
+    hostname: 192.168.1.149
+    groups:
+        - wanrouters
+    data:
+        site: Serres
+        role: router
+        type: network_device
+
+bog-152:
+    hostname: 192.168.1.152
+    groups:
+        - wanrouters
+    data:
+        site: Tripoli
+        role: router
+        type: network_device
+
+bog-156:
+    hostname: 192.168.1.156
+    groups:
+        - wanrouters
+    data:
+        site: Xania
+        role: router
+        type: network_device
