@@ -4,7 +4,7 @@ The new descriptions are read from an excel file where there are data correspond
 So the script demonstrates:
 - how to read data from an excel file, 
 - how to setup a small project with Nornir defining hosts.yaml, groups.yaml, config.yaml and defaults.yaml files
-- how to insert information for each host dynamically in the inventory
+- how to insert information for each host dynamically in the inventory (ty Dmitry!)
 - how to define a group of tasks to be run across all the hosts in the inventory
 - how to use netmiko to send commands using ntc-templates for the parsing, send config commands and save configuration per host. Keep in mind though that the task is run all at once and concurrently. It took the script about 17 seconds to complete, almost 1 second per host if we want to devide that time per number of hosts.
 
