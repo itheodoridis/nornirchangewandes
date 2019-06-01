@@ -10,3 +10,5 @@ So the script demonstrates:
 
 What is not in the script but was provided as help to me, is how to use the ipdb (the interactive python debugger) to find out how the resulst of the tanks and the inventory itself are structured.
 I will update with links for where the documentation can be found for everything.
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/itheodoridis/nornirchangewandes)
