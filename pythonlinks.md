@@ -7,5 +7,6 @@ If you are looking for a place to start with python, take a look at the followin
 - This course was also almost free for a period of time: https://academy.gns3.com/p/python-network-programming
 - You can find a lot of python content on the web, like this site: https://realpython.com/
 - or this site: https://talkpython.fm/ (podcasts) https://www.youtube.com/channel/UCKPSmMfDsXTKrCZApukcJ7A (youtube channel)
+- AND YOU CAN ALSO CHECK THIS ONE OUT!! : https://developer.cisco.com/learning/modules/programming-fundamentals (YES CISCO IS TEACHING YOU PYTHON!)
 
 I am sure you can find plenty more on your own. But the best thing you can do is look for communities and mentors. The internet is a classroom in out time. Get out there and learn!
