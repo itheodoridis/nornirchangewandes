@@ -31,7 +31,8 @@ In Kirk's website you can pick up two additionall threads of information:
 
 Chec the Nornir discourse page at https://nornir.discourse.group/ It's the forum to sign in and ask your questions. 
 If you like slack, the there is the NetworktoCode workspace and from there you can find the Nornir channel at https://networktocode.slack.com/messages/C82409LEL . Live discussion. I like it!
-I have posted some content at my blog http://www.mythryll.com . It's a personal one, nothing fancy, I can't afford fancy sites so no impressive pics and videos there, but there are things to look at and get ideas on how to pick up and use things. I have a lot of legacy gear to manage so it might be usefull to you if you are in the same position. I will move some of that in repositories as well, soon.
+
+I have posted some content at my blog http://www.mythryll.com . It's a personal one, nothing fancy, I can't afford fancy sites so no impressive pics and videos there, but there are things to look at and get ideas on how to pick up and use stuff. I have a lot of legacy gear to manage so it might be usefull to you if you are in the same position. I will move some of that in repositories as well, soon.
 
 I got a lot of help by Dmitry Figol for this one (of course I had to understand his input and adapt it to my needs, also figure out some missing links) and very usefull advice by Nick Russo. They are both on twitter and quite famous in the NetDevOps world so no need to provide links to them here. One of the pieces of advice I got is to use ipdb. I used the Nornir page for that to get started: https://nornir.readthedocs.io/en/stable/howto/ipdb_how_to_use_it_with_nornir.html . It's true it can change everything on how you figure out things work.
 
