@@ -13,17 +13,21 @@ I will update with links for where the documentation can be found for everything
 
 Here are some links that may prove usefull in understanding how to put things together.
 I am on twitter at @mythryll . 
+
 https://nornir.readthedocs.io/en/stable/tutorials/intro/overview.html this is the Nornir documentation, the files are available in github. If you are new at Network Automation and have no knowledge of Python, this is not the place to start. I have put some python links in a separete text file, [pythonlinks.md](pythonlinks.md). You can understand most of what you need, if you have somewhat familiar with python (variables, control structures, functions, lists, dictionaries) and some idea about what Netmiko and Napalm are. There is a great introductory video about Napalm and Nornir by Stuart Clark through the NetDevOps Live Youtube Channel
 https://youtu.be/3uIk0WQLHZk 
 or better yet check them out at the cisco netdevops live pages where all the sessions from the show are available and you can subscribe for the upcomming ones:
 https://developer.cisco.com/netdevops/live/ over here you can watch the first videos of each season presented by Hank Preston, so you can get an easy introduction.
+
 If you want to start with Network Automation I would suggest you start with Kirk Byers website
 https://pynet.twb-tech.com/blog/automation/netmiko.html Netmiko supports connections to a lot of network devices of different types and vendors. Check them out.
 https://pynet.twb-tech.com/ Start here for an overall view.
 Kirk is doing an email course for Python for Network Engineers which is free (great stuff, you will learn a lot) but also gives a paid course which is more advanced. I can't afford it yet (I am not expecting my network automation knowledge to pay off, it's about where I work), but I have take a look at some of the source code so I highly recommend getting in that if you can.
+
 In Kirk's website you can pick up two additionall threads of information:
 - Netmiko and Textfsm (NTC-Templates too): great stuff, it's a whole project available also on github, basically you can parse almost everything you can think of that is a result of a command send to a network device. It usually comes back as a list of dictionaries that you can navigate to get to the fields you want. The template files themselves contain the fields that are parsed. There are other parsers of coure, the Genie parser from the PyATS & Genie project is probably the most promising one. https://github.com/networktocode/ntc-templates
 - Introduction to Nornir: It's a collection of two articles staring from this one https://pynet.twb-tech.com/blog/nornir/intro.html and moving on to this https://www.linkedin.com/pulse/using-nornir-os-upgrades-part-2-kirk-byers/
+
 
 Chec the Nornir discourse page at https://nornir.discourse.group/ It's the forum to sign in and ask your questions. 
 If you like slack, the there is the NetworktoCode workspace and from there you can find the Nornir channel at https://networktocode.slack.com/messages/C82409LEL . Live discussion. I like it!
