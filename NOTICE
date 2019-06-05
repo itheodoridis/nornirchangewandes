@@ -1,0 +1,3 @@
+Nornir-change-wan-des
+Copyright (c) 2019 Ioannis Theodoridis
+This project includes software developped by Ioannis Theodoridis, and is about operating on a group of network devices via Nornir to accomplish specific tasks (change the wan interface description adding circuit information).
